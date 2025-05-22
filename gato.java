@@ -9,5 +9,30 @@ package com.mycompany.josuerexamenmediociclo;
  * @author User
  */
 public class gato {
+    public int edad;
+        public String Nombre;
+public void gato
+      
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
 }

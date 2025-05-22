@@ -9,6 +9,21 @@ package com.mycompany.josuerexamenmediociclo;
  * @author User
  */
 public class ave {
+    public int edad;
+        public String Nombre;
+public void ave
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
     
     
